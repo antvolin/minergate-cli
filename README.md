@@ -4,5 +4,5 @@
   
     docker run -d --name=minergate-cli antvolin/minergate-cli:latest -user your_mail@mail.com -bcn
   
-*** Replace {your_mail@mail.com} with your email address ***
+***Replace {your_mail@mail.com} with your email address***
   
