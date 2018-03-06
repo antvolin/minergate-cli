@@ -3,4 +3,4 @@ Dockerized minergate cli
 
 # Download image and RUN container with your parameters
   
-    docker run -d --name=minergate-cli antvolin/minergate-cli:latest -user you_mail@mail.com -bcn
+    docker run -d --name=minergate-cli antvolin/minergate-cli:latest -user your_mail@mail.com -bcn
